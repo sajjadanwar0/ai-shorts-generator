@@ -66,7 +66,11 @@ uv sync
 
 ### Configuration
 
-Create a `.env` file in the project root:
+Copy `.env.example` to  `.env` using:
+```bash
+cp .env.example .env
+```
+
 
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
