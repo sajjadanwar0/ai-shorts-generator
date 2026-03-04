@@ -57,8 +57,8 @@ ShortsProducerAgent (Orchestrator)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/youtube-shorts-maker.git
-cd youtube-shorts-maker
+git clone https://github.com/sajjadanwar0/ai-shorts-generator.git
+cd ai-shorts-generator
 
 # Install dependencies
 uv sync
