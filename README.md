@@ -92,7 +92,7 @@ winget install ffmpeg
 ### Run with Google ADK Web UI
 
 ```bash
-uv run adk web
+adk web
 ```
 
 Then open your browser at `http://localhost:8000` and start chatting with the `ShortsProducerAgent`.
