@@ -52,7 +52,6 @@ ShortsProducerAgent (Orchestrator)
 - [uv](https://docs.astral.sh/uv/) package manager
 - FFmpeg installed on your system
 - OpenAI API key
-- Google ADK credentials
 
 ### Installation
 
@@ -71,7 +70,6 @@ Create a `.env` file in the project root:
 
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
-GOOGLE_API_KEY=your_google_api_key_here
 ```
 
 ### Install FFmpeg
