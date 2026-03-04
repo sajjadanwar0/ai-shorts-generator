@@ -214,10 +214,3 @@ dependencies = [
     "pydantic>=2.12.5",
 ]
 ```
-
-
-## 🙏 Acknowledgements
-
-- [Google ADK](https://google.github.io/adk-docs/) for the powerful multi-agent framework
-- [OpenAI](https://openai.com/) for GPT-4o, GPT-Image-1, and TTS APIs
-- [FFmpeg](https://ffmpeg.org/) for video processing
